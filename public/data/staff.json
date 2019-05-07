@@ -1,0 +1,32 @@
+[
+  {
+    "name":"himanshu",
+    "age":24,
+    "languages": "javascript"
+  },
+  {
+    "name":"ankit",
+    "age":25,
+    "languages": "all known "
+  },
+  {
+    "name":"amit",
+    "age":26,
+    "languages": "meanstack"
+  },
+  {
+    "name":"abhishek",
+    "age":25,
+    "languages": ".net"
+  },
+  {
+    "name":"deependra",
+    "age":24,
+    "languages": "android"
+  },
+  {
+    "name":" lu lu",
+    "age":24,
+    "languages": ".net"
+  }
+]
